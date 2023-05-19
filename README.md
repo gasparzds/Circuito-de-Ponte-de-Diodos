@@ -50,3 +50,14 @@ O retificador de meia onda consiste em um diodo semicondutor, que permite que a 
 O retificador de onda completa usa quatro diodos semicondutores em uma configuração de ponte retificadora. A corrente alternada é aplicada ao circuito e, por meio da configuração de ponte, os diodos permitem que a corrente flua através da carga em ambas as metades da onda. A saída resultante é uma corrente contínua suave com polaridade positiva. O retificador de onda completa é mais eficiente e apresenta uma saída de corrente mais suave do que o retificador de meia onda.
 
 Os retificadores são amplamente utilizados em eletrônica para converter a energia elétrica de CA em CC para alimentar uma grande variedade de dispositivos eletrônicos, desde pequenos dispositivos portáteis a grandes equipamentos industriais.
+
+TRABALHO FEITO NA AULA 19/05 
+![WhatsApp Image 2023-05-19 at 20 36 36](https://github.com/gasparzds/Circuito-de-Ponte-de-Diodos/assets/61299557/169a3280-ead0-40df-b39f-ca22bf867da8)
+
+
+
+
+
+
+
+
