@@ -52,7 +52,10 @@ O retificador de onda completa usa quatro diodos semicondutores em uma configura
 Os retificadores são amplamente utilizados em eletrônica para converter a energia elétrica de CA em CC para alimentar uma grande variedade de dispositivos eletrônicos, desde pequenos dispositivos portáteis a grandes equipamentos industriais.
 
 TRABALHO FEITO NA AULA 19/05 
+O circuito Retificador com LM7805
 ![WhatsApp Image 2023-05-19 at 20 36 36](https://github.com/gasparzds/Circuito-de-Ponte-de-Diodos/assets/61299557/169a3280-ead0-40df-b39f-ca22bf867da8)
+
+O circuito Retificador com LM7809 e com o divisor de tensão.
 
 
 
