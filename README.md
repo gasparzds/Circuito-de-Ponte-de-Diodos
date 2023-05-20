@@ -26,6 +26,7 @@ Incluir o esquemático com o Tinkercad (na protoboard)
 ![print5](https://user-images.githubusercontent.com/61299557/228560875-feccab33-85bf-4616-954c-963ab9cbedba.PNG)
 
 
+
 COMPONENTES DO CIRCUITO:
 Descreva o funcionamento de um retificador
 
@@ -59,6 +60,10 @@ O circuito Retificador com LM7805
 ![WhatsApp Image 2023-05-19 at 20 36 36](https://github.com/gasparzds/Circuito-de-Ponte-de-Diodos/assets/61299557/169a3280-ead0-40df-b39f-ca22bf867da8)
 
 O circuito Retificador com LM7809 e com o divisor de tensão.
+
+![image](https://github.com/gasparzds/Circuito-de-Ponte-de-Diodos/assets/61299557/51f3d6bc-c8c8-4aba-aceb-51178cb1f7ce)
+![image](https://github.com/gasparzds/Circuito-de-Ponte-de-Diodos/assets/61299557/e3b68816-2868-4ca6-b875-d17e2cf608a0)
+
 
 
 
